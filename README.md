@@ -13,3 +13,7 @@
  if use_normalized_coordinates:
  
  (left, right, top, bottom) = (xmin * im_width, xmax * im_width, ymin * im_height, ymax * im_height)
+ 
+ 
+ VS Code Extentions:
+ https://www.youtube.com/watch?v=mU6anWqZJcc&t=11382s
